@@ -105,7 +105,6 @@ Return to Visual Code, and we can start further develop our application. Below o
 		{
 			Console.WriteLine("This is My First App!!");
 			
-			Window myFirstAppWindow;
 			Window myFirstAppWindow = new Window("This is My First App Window", 800, 600);
 		}
 	}
@@ -146,7 +145,6 @@ Our Code should now look like the below
 		{
 			Console.WriteLine("This is My First App!!");
 			
-			Window myFirstAppWindow;
 			Window myFirstAppWindow = new Window("This is My First App Window", 800, 600);
 			myFirstAppWindow.Clear(Color.LightBlue);
         	myFirstAppWindow.FillRectangle(Color.BrightGreen, 0, 500, 800, 600);
@@ -199,7 +197,6 @@ The Final Code output should look like the below...
 		{
 			Console.WriteLine("This is My First App!!");
 			
-			Window myFirstAppWindow;
 			Window myFirstAppWindow = new Window("This is My First App Window", 800, 600);
 			myFirstAppWindow.Clear(Color.LightBlue);
         	myFirstAppWindow.FillRectangle(Color.BrightGreen, 0, 500, 800, 600);
@@ -221,6 +218,8 @@ Return to the Terminal and let's test out to see what we have created!
 `skm dotnet build`
 
 `skm dotnet run`
+
+![ScreenShot10](https://github.com/markvandenhoff/markvandenhoff/blob/main/MyFirstApp/Images/ScreenShot10.png)
 
 ## Step 10 - Congratulations! - You have created your first app using C#!
 You have now created a very simple app with C#. You can now utilise some creativity to add some more shapes, or create a whole new picture! Have a play around and see what you can come up with.. Thanks for following along! Happy Coding!
