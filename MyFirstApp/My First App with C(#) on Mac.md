@@ -71,6 +71,8 @@ Add in a line of code below to the '**Program.cs**' file
 		}
 	}
 	
+![ScreenShot7](https://github.com/markvandenhoff/markvandenhoff/blob/main/MyFirstApp/Images/ScreenShot7.png)
+
 ## Step 5 - Return to the Terminal and Build & Run the our app to test it!
 Return to the Terminal. - Ensure you are still in the MyFirstApp Folder!
 
@@ -78,10 +80,14 @@ We first need to **'Build'** (Compile) the code to allow it to run. To **Build**
 
 `skm dotnet build`
 
+![ScreenShot8](https://github.com/markvandenhoff/markvandenhoff/blob/main/MyFirstApp/Images/ScreenShot7.png)
+
 If the code contains any errors, it will show the code line, and what the error is. This is very handy to troubleshoot when buulding applications! 
 After the Successfell Build, we can then 'Run' the program. Type the below command to 'Run' the App.
 
 `skm dotnet run`
+
+![ScreenShot9](https://github.com/markvandenhoff/markvandenhoff/blob/main/MyFirstApp/Images/ScreenShot7.png)
 
 The Console should output the below text.
 
