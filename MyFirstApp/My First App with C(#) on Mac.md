@@ -6,21 +6,27 @@ Open the terminal and navigate to your code folder.
 
 `cd ~/Documents/Code`
 
+![ScreenShot1](https://github.com/markvandenhoff/markvandenhoff/blob/main/MyFirstApp/Images/ScreenShot1.png)
+
 Then make a new folder / directory for you app
 
 `mkdir MyFirstApp`
+
+![ScreenShot2](https://github.com/markvandenhoff/markvandenhoff/blob/main/MyFirstApp/Images/ScreenShot2.png)
 
 Navigate to the new app folder
 
 `cd MyFirstApp`
 
-![Terminal](https://github.com/markvandenhoff/markvandenhoff/blob/main/MyFirstApp/Images/ScreenShot1.png)
+![ScreenShot3](https://github.com/markvandenhoff/markvandenhoff/blob/main/MyFirstApp/Images/ScreenShot3.png)
 
 ## Step 2 - Create a new console for the basis of the application
 
 To create a new Console.  Type the command into the terminal
 
 `skm dotnet new console`
+
+![ScreenShot4](https://github.com/markvandenhoff/markvandenhoff/blob/main/MyFirstApp/Images/ScreenShot4.png)
 
 A new console will be created
 
