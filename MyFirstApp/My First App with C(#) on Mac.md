@@ -49,6 +49,14 @@ In the right hand side bar, you will the folder 'MyFirstApp', and below it a fil
 		}
 	}
 
+![ScreenShot5](https://github.com/markvandenhoff/markvandenhoff/blob/main/MyFirstApp/Images/ScreenShot5.png)
+
+## Step 3A - NOTE - Mac Users need to delete the below line from the MyFirstApp.csproj file or you will get an ERRROR on build. 
+
+    <ImplicitUsings>disable</ImplicitUsings> - Delete this line
+
+![ScreenShot6](https://github.com/markvandenhoff/markvandenhoff/blob/main/MyFirstApp/Images/ScreenShot6.png)
+
 ## Step 4 - Let's add our first line of Code & Test our Program works!
 Add in a line of code below to the '**Program.cs**' file
 
