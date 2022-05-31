@@ -80,14 +80,14 @@ We first need to **'Build'** (Compile) the code to allow it to run. To **Build**
 
 `skm dotnet build`
 
-![ScreenShot8](https://github.com/markvandenhoff/markvandenhoff/blob/main/MyFirstApp/Images/ScreenShot7.png)
+![ScreenShot8](https://github.com/markvandenhoff/markvandenhoff/blob/main/MyFirstApp/Images/ScreenShot8.png)
 
 If the code contains any errors, it will show the code line, and what the error is. This is very handy to troubleshoot when buulding applications! 
 After the Successfell Build, we can then 'Run' the program. Type the below command to 'Run' the App.
 
 `skm dotnet run`
 
-![ScreenShot9](https://github.com/markvandenhoff/markvandenhoff/blob/main/MyFirstApp/Images/ScreenShot7.png)
+![ScreenShot9](https://github.com/markvandenhoff/markvandenhoff/blob/main/MyFirstApp/Images/ScreenShot9.png)
 
 The Console should output the below text.
 
