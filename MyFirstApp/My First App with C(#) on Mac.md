@@ -14,6 +14,8 @@ Navigate to the new app folder
 
 `cd MyFirstApp`
 
+![Terminal](https://github.com/markvandenhoff/markvandenhoff/blob/main/MyFirstApp/Images/ScreenShot1.png)
+
 ## Step 2 - Create a new console for the basis of the application
 
 To create a new Console.  Type the command into the terminal
